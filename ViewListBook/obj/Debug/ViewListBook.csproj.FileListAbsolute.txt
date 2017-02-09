@@ -1,0 +1,6 @@
+D:\Education_materials\Test Task\ViewListBook\ViewListBook\bin\Debug\ViewListBook.exe.config
+D:\Education_materials\Test Task\ViewListBook\ViewListBook\bin\Debug\ViewListBook.exe
+D:\Education_materials\Test Task\ViewListBook\ViewListBook\bin\Debug\ViewListBook.pdb
+D:\Education_materials\Test Task\ViewListBook\ViewListBook\obj\Debug\ViewListBook.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\ViewListBook\ViewListBook\obj\Debug\ViewListBook.exe
+D:\Education_materials\Test Task\ViewListBook\ViewListBook\obj\Debug\ViewListBook.pdb
